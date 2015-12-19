@@ -2,7 +2,8 @@ var util = require('util');
 var EventEmitter = require('events');
 
 /**
- * @class Creates a new Handoff instance.
+ * Creates a new Handoff instance.
+ * @class 
  * @classdesc A Handoff is a work queue which.
  * It can be fed with new work, which is then
  * worked off one-after-another.

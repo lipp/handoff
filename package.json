@@ -1,0 +1,27 @@
+{
+  "name": "handoff",
+  "version": "1.0.0",
+  "description": "Simple async work queue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lipp/handoff.git"
+  },
+  "keywords": [
+    "async",
+    "queue",
+    "work"
+  ],
+  "author": "Gerhard Preuss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lipp/handoff/issues"
+  },
+  "homepage": "https://github.com/lipp/handoff",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}

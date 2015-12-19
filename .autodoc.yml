@@ -1,0 +1,6 @@
+name: handoff
+files: 
+  - index.js
+flavor: jsdoc
+articles:
+  - About: README.md
